@@ -1,0 +1,8 @@
+Airport,Lincoln,LNC,30,60
+Airport,Jackson,JCK,-90,90
+Airport,Tesla,TSL,0,0
+Airport,Congo,DRE,11,12
+Flight,LNC,TSL,0,15,100
+Flight,TSL,LNC,0,15,90
+Flight,JCK,LNC,1,30,20
+Flight,LNC,DRE,0,22,55

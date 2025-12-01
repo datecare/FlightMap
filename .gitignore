@@ -1,0 +1,32 @@
+## Eclipse base .gitignore
+.classpath
+.project
+.settings/
+.metadata/
+
+# Compiled class files
+*.class
+
+# Build output directories
+/bin/
+/out/
+/target/
+
+# Maven / Gradle wrapper downloaded files 
+.mvn/
+.gradle/
+build/
+
+# IntelliJ / other IDEs (just in case)
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
