@@ -1,6 +1,6 @@
 # Flight Simulator
 
-This project is a simple 2D GUI Flight Simulator in Java using the AWT framework. Add and display flights.
+This project is a simple 2D GUI Flight Simulator in Java using the AWS framework. Add and display flights.
 
 Features include:
 
